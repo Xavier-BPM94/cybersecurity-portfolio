@@ -38,6 +38,8 @@ cybersecurity-portfolio/
 │   └── log-parser.py
 └── notes/
     └── google-cybersecurity/
+### 📘 Notes Repository
+
 - [Glossary Module 1](./notes/google-cybersecurity/glossary-module-1.md)
 - [Glossary Module 2](./notes/google-cybersecurity/glossary-module-2.md)
 - [Glossary Module 3](./notes/google-cybersecurity/glossary-module-3.md)
