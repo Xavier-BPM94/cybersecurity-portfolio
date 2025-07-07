@@ -1,4 +1,4 @@
-📘 Module 4: Security Tools & Technologies
+Module 4: Security Tools & Technologies
 
 Antivirus software: Detects and removes malware.
 
