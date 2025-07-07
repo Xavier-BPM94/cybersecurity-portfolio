@@ -1,4 +1,4 @@
-Module 2: Cybersecurity Threat Landscape
+Module 2: Cybersecurity Threat Landscape 
 
 Adversarial AI: Manipulating AI/ML for efficient attacks.
 
