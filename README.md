@@ -37,7 +37,9 @@ cybersecurity-portfolio/
 │   ├── nmap-auto.sh
 │   └── log-parser.py
 └── notes/
-    └── google-cybersecurity/
+    ├── google-cybersecurity/
+    └── weekly-reflections/
+
 ### 📘 Notes Repository
 
 - [Glossary Module 1](./notes/google-cybersecurity/glossary-module-1.md)
