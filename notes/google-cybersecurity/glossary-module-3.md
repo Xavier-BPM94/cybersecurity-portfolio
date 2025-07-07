@@ -1,4 +1,4 @@
-📘 Module 3: Core Security Concepts
+Module 3: Core Security Concepts
 
 Asset: Anything of value to an organization.
 
