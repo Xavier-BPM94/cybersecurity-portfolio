@@ -89,13 +89,6 @@ Track progress in `/journals/` folder:
 
 ---
 
-## 📄 Resume + Blog
-
-* [Cybersecurity Resume (DOCX)](../Xavier_Pena_Cybersecurity_Resume.docx)
-* [Medium Blog: CyberSecurity Journal – Week 01](https://medium.com/@xavierbpm/week-01-my-cybersecurity-journey-begins)
-
----
-
 ## 🤝 Connect with Me
 
 If you're a fellow learner, mentor, or recruiter, feel free to connect:
